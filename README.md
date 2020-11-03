@@ -7,5 +7,5 @@ Notebooks linkados
 * [Deep Transfer Learning - Como criar modelos reaproveitando redes pré treinadas](https://github.com/paulosestini/DeepTransferLearning)
 
 Notebooks salvos no repositório
-* Estatística Bayesiana
-* Dimensão Intrínseca
+* [Estatística Bayesiana](https://github.com/GrupoTuring/pEdiversao/tree/master/Bayesian%20Statistics)
+* [Dimensão Intrínseca](https://github.com/GrupoTuring/pEdiversao/tree/master/IntrinsicDimension)
