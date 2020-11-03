@@ -8,3 +8,4 @@ Notebooks linkados
 
 Notebooks salvos no repositório
 * Estatística Bayesiana
+* Dimensão Intrínseca
