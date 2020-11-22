@@ -9,4 +9,4 @@ Notebooks linkados
 Notebooks salvos no repositório
 * [Estatística Bayesiana](https://github.com/GrupoTuring/pEdiversao/tree/master/Bayesian%20Statistics)
 * [Dimensão Intrínseca](https://github.com/GrupoTuring/pEdiversao/tree/master/IntrinsicDimension)
-* [Aula de PyTorch - Ministrada internamente para o grupo e disponibilizada](https://github.com/GrupoTuring/pEdiversao/tree/master/Aula_PyTorch)
+* [Aula de PyTorch - Ministrada internamente para o grupo e disponibilizada publicamente](https://github.com/GrupoTuring/pEdiversao/tree/master/Aula_PyTorch)
