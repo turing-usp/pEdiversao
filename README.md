@@ -5,6 +5,7 @@ Os notebooks podem ser encontrados linkados abaixo e outros estão em pastas no 
 Notebooks linkados
 * [DeepDream - Como fazer redes neurais "sonharem"](https://github.com/paulosestini/DeepDream)
 * [Deep Transfer Learning - Como criar modelos reaproveitando redes pré treinadas](https://github.com/paulosestini/DeepTransferLearning)
+* [Generative Adversarial Networks - GAN para gerar imagens de carros](https://github.com/paulosestini/Car_GAN)
 
 Notebooks salvos no repositório
 * [Estatística Bayesiana](https://github.com/GrupoTuring/pEdiversao/tree/master/Bayesian%20Statistics)
